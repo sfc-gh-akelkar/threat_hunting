@@ -1,0 +1,6 @@
+faker==19.6.2
+pandas==2.1.1
+pyarrow==13.0.0
+ipaddress==1.0.23
+snowflake-connector-python==3.3.1
+python-dateutil==2.8.2 
