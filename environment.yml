@@ -1,0 +1,13 @@
+# Streamlit in Snowflake Environment Configuration
+name: cybercommand
+channels:
+  - https://repo.anaconda.com/pkgs/snowflake
+dependencies:
+  - python=3.8
+  - snowflake-snowpark-python
+  - pandas
+  - plotly
+  - numpy
+  - streamlit
+  - pip:
+    - plotly==5.17.0 
